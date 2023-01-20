@@ -1,0 +1,8 @@
+﻿  Bank1.cpp
+C:\Users\omder\OneDrive\Desktop\Bank Project\Bank Project 0.1\Bank Project 0.1\Bank1.cpp(67,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\omder\OneDrive\Desktop\Bank Project\Bank Project 0.1\Bank Project 0.1\Bank1.cpp(915): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+C:\Users\omder\OneDrive\Desktop\Bank Project\Bank Project 0.1\Bank Project 0.1\Bank1.cpp(873): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\omder\OneDrive\Desktop\Bank Project\Bank Project 0.1\Bank Project 0.1\Bank1.cpp(955): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\omder\OneDrive\Desktop\Bank Project\Bank Project 0.1\Bank Project 0.1\Bank1.cpp(995): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+C:\Users\omder\OneDrive\Desktop\Bank Project\Bank Project 0.1\Bank Project 0.1\Bank1.cpp(1022): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  Bank Project 0.1.vcxproj -> C:\Users\omder\OneDrive\Desktop\Bank Project\Bank Project 0.1\x64\Debug\Bank Project 0.1.exe
